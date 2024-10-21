@@ -262,6 +262,7 @@ html {
   }
   .header .header-left .page {
     display: flex;
+    visibility: visible;
     width: 465px;
     height: 100%;
     align-items: center;
